@@ -1,6 +1,6 @@
 ![Logo](.github/logo.svg)
 
-### Find IP address
+### Find IP Address
 
 <div>
     <img src="https://img.shields.io/github/license/ericneves/FINDIPADDRESS?color=green&style=flat-square&logo=appveyor">
