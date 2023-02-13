@@ -3,11 +3,12 @@
 ### Find IP address
 
 <div>
-    <img src="https://img.shields.io/github/license/ericneves/simplespa?color=red&logo=square&style=social">
-    <img src="https://img.shields.io/github/last-commit/ericneves/simplespa?color=cyan&logo=square&style=social">
+    <img src="https://img.shields.io/github/license/ericneves/FINDIPADDRESS?color=blueviolet&style=flat-square&logo=appveyor">
 </div>
 
 <p>Script escrito em bash, que possui a finalidade de encontrar endereços IP's conectados na rede interna.</p>
+
+![Logo](.github/result.png)
 
 ### Funcionamento
 
@@ -48,4 +49,4 @@
 
 ### License
 
-<img src="https://img.shields.io/github/license/ericneves/simplespa?color=red&logo=square&style=social">
+<img src="https://img.shields.io/github/license/ericneves/FINDIPADDRESS?color=blueviolet&style=flat-square&logo=appveyor">
