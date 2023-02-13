@@ -3,7 +3,7 @@
 ### Find IP address
 
 <div>
-    <img src="https://img.shields.io/github/license/ericneves/FINDIPADDRESS?color=blueviolet&style=flat-square&logo=appveyor">
+    <img src="https://img.shields.io/github/license/ericneves/FINDIPADDRESS?color=green&style=flat-square&logo=appveyor">
 </div>
 
 <p>Script escrito em bash, que possui a finalidade de encontrar endereços IP's conectados na rede interna.</p>
@@ -48,4 +48,4 @@
 
 ### License
 
-<img src="https://img.shields.io/github/license/ericneves/FINDIPADDRESS?color=blueviolet&style=flat-square&logo=appveyor">
+<img src="https://img.shields.io/github/license/ericneves/FINDIPADDRESS?color=green&style=flat-square&logo=appveyor">
