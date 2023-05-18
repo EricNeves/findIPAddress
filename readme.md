@@ -31,11 +31,11 @@
 
 ![Logo](.github/sed.png)
 
-<p>Antes de montar o script, o código abaixo retorna uma lista de valores que serão os possíveis hosts conectados na rede. A variavél **$i** será inserida de forma dinâmica, por exemplo: <b>192.168.100.$i</b>, resultando numa lista de IP's.</p>
+<p>Antes de montar o script, o código abaixo retorna uma lista de valores que serão os possíveis hosts conectados na rede. A variavél <b>$i</b> será inserida de forma dinâmica, por exemplo: <b>192.168.100.$i</b>, resultando numa lista de IP's.</p>
 
 ![Logo](.github/for.png)
 
-<p>Após entendermos a lógica, vamos criar o script e adicionar a permissão de execução. Sendo que **nano** foi o editor que escolhi.</p>
+<p>Após entendermos a lógica, vamos criar o script e adicionar a permissão de execução. Sendo que <b>nano</b> foi o editor que escolhi.</p>
 
 ![Logo](.github/chmod.png)
 
